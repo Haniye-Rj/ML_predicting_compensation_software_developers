@@ -52,6 +52,13 @@ Target variable:
 ---
 
 # Data Preprocessing
+<h1>My Plotly Visualizations</h1>
+
+<ul>
+  <li><a href="my_plot.html">Sales Dashboard</a></li>
+  <li><a href="customer_segments.html">Customer Segments</a></li>
+  <li><a href="forecast.html">Forecast</a></li>
+</ul>
 
 The following preprocessing steps were applied:
 

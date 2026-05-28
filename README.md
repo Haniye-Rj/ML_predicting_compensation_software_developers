@@ -58,8 +58,9 @@ The notebook performs detailed EDA before modeling, including:
 - Correlation analysis between numerical variables and salary.
   <ul>
   <li><a href="NUMERIC_COR.html">numeric corrolation plot</a></li>
-  <li><a href="NUMERIC_COR2">feature seection plot</a></li>
-</ul>
+  <li><a href="NUMERIC_COR2">featuren seection plot</a></li>
+  </ul>
+
 - Salary distribution visualization before and after log transformation.
 - Median salary comparison across categorical groups.
 - Region-based salary analysis using grouped rare categories.

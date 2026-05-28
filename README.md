@@ -91,7 +91,7 @@ Rare regions and age groups are grouped into `Other` categories. This reduces no
 
 The notebook identifies a strong relationship between `coding_years_total` and `coding_years_professional`. Since these features carry overlapping information, `coding_years_total` is dropped to reduce redundancy. This shows an understanding of feature correlation and model stability.
 <ul>
-  <li><a href="Multicollinearity.html">Multicollinearity plot</a></li>
+  <li><a href="my_plot.html">Multicollinearity plot</a></li>
 </ul>
 
 ### 4. Leakage prevention

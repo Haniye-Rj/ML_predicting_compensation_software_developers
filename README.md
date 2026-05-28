@@ -55,9 +55,8 @@ Target variable:
 <h1>My Plotly Visualizations</h1>
 
 <ul>
-  <li><a href="my_plot.html">Sales Dashboard</a></li>
-  <li><a href="customer_segments.html">Customer Segments</a></li>
-  <li><a href="forecast.html">Forecast</a></li>
+  <li><a href="my_plot.html">corrolation matrix</a></li>
+  <li><a href="NUMERIC_COR.html">numerical corrolationss</a></li>
 </ul>
 
 The following preprocessing steps were applied:

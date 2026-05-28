@@ -33,6 +33,7 @@ annual_pay_usd
 
 <ul>
   <li><a href="disribiutionpolt.html">distribution plot</a></li>
+   <li><a href="LogPlot.html">Logged plot</a></li>
 </ul>
 
 During modeling, the target is transformed using:

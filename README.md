@@ -28,9 +28,12 @@ The prediction target is:
 
 ```python
 annual_pay_usd
-```
+<h1>My Plotly Visualizations</h1>
+
 <ul>
   <li><a href="my_plot.html">corrolation matrix</a></li>
+</ul>
+```
 During modeling, the target is transformed using:
 
 ```python

@@ -57,8 +57,8 @@ The notebook performs detailed EDA before modeling, including:
 - Basic dataset inspection with `info()`, `describe()`, missing-value checks, and column review.
 - Correlation analysis between numerical variables and salary.
   <ul>
-  <li><a href="NUMERIC_COR.html">distribution plot</a></li>
-  <li><a href="NUMERIC_COR2">Logged plot</a></li>
+  <li><a href="NUMERIC_COR.html">numeric corrolation plot</a></li>
+  <li><a href="NUMERIC_COR2">feature seection plot</a></li>
 </ul>
 - Salary distribution visualization before and after log transformation.
 - Median salary comparison across categorical groups.

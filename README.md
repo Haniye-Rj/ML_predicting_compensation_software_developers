@@ -33,7 +33,7 @@ annual_pay_usd
 
 <ul>
   <li><a href="disribiutionpolt.html">distribution plot</a></li>
-   <li><a href="LogPlot.html">Logged plot</a></li>
+  <li><a href="LogPlot.html">Logged plot</a></li>
 </ul>
 
 During modeling, the target is transformed using:
@@ -56,6 +56,10 @@ The notebook performs detailed EDA before modeling, including:
 
 - Basic dataset inspection with `info()`, `describe()`, missing-value checks, and column review.
 - Correlation analysis between numerical variables and salary.
+  <ul>
+  <li><a href="NUMERIC_COR.html">distribution plot</a></li>
+  <li><a href="NUMERIC_COR2">Logged plot</a></li>
+</ul>
 - Salary distribution visualization before and after log transformation.
 - Median salary comparison across categorical groups.
 - Region-based salary analysis using grouped rare categories.

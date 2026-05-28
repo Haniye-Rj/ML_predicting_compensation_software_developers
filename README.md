@@ -32,7 +32,7 @@ annual_pay_usd
 <h1>My Plotly Visualizations</h1>
 
 <ul>
-  <li><a href="disribiutionpolt.html">corrolation matrix</a></li>
+  <li><a href="disribiutionpolt.html">distribution plot</a></li>
 </ul>
 
 During modeling, the target is transformed using:

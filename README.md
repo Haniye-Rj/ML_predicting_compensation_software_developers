@@ -263,9 +263,6 @@ Future improvements could include:
 - Use a single final pipeline for both training and inference.
 - Compare additional models such as Random Forest, Gradient Boosting, XGBoost, LightGBM, or CatBoost.
 - Add feature-importance analysis using permutation importance or SHAP.
-- Save the trained model with `joblib` for reproducible deployment.
-- Add a `requirements.txt` file.
-- Add clearer section headings and markdown explanations throughout the notebook.
 
 ## How to Run
 
